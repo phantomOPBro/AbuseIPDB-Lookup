@@ -5,7 +5,9 @@ Use the 'abuseIPDBlookup.py' file in the same directory as the yaml file to look
 
 
 ========
+
 Usage:
+
 ========
 
 
@@ -13,14 +15,19 @@ $ python abuseIPDBlookup.py 176.121.14.188
 
 
 ========
+
 Sample Output:
+
 ========
 
 Source: 176.121.14.188
 
 This IP has been reported 9 times to AbuseIPDB.
+
 Country: Belize
+
 Reputation: Poor
+
 https://www.abuseipdb.com/check/176.121.14.188
 
 This IP has been reported in the past for the following reasons: 
